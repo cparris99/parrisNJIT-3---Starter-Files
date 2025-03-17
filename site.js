@@ -37,7 +37,7 @@ const vue_app = Vue.createApp({
             /* ADD ADDITIONAL VARIABLES FOR STEP 3 HERE */
             title: "charles's movie site",
             owner: "Cparris39",
-            github: "https://github.com/cparris39/parrisNJIT-3---Starter-Files"
+            github: "https://github.com/cparris99/parrisNJIT-3---Starter-Files/tree/main"
       }
     },
       methods: {
